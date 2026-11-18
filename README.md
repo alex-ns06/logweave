@@ -26,7 +26,7 @@ Trabalho final de **Design Patterns e Clean Code** (tema: Logging e Telemetria I
 
 ## Vídeo de apresentação
 
-Link do YouTube: _(a ser adicionado)_
+Link do YouTube: https://youtu.be/ji4wOEqY_d8
 
 ## Índice
 
